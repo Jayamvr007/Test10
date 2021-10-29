@@ -5,4 +5,8 @@ I am from developer branch
 changes from local repo
 testing git fetch
 I am testing merge conflict
+<<<<<<< HEAD
 I am testing merge conflict 1
+=======
+merge conflict from github
+>>>>>>> 8305159b84a5800dfebed784049be1449a5167cb
